@@ -1,40 +1,60 @@
+# Problem Solving Study
+
+`문제 해결 스터디`
+
+목표 : 플래티넘 및 프로그래머스 레벨 4 이상 풀이
+
+<br>
+
 > 2022.06.01 ~
 >
 > **사용 언어 : JAVA**
 
 <br>
 
-## 📝 규칙
-- 목요일 스터디 시간에 문제 2개씩(제한시간 90분) 풀고 풀이 공유
-- 다음 스터디 날까지 배포된 문제 풀어오기
-  <br>
-
 ## 🙋‍♂️ 팀원
-|[<img src="https://avatars.githubusercontent.com/u/80505099?v=4" width="230px;" alt=""/>](https://github.com/BusChanny) | 👑 [<img src="https://avatars.githubusercontent.com/u/68576770?v=4" width="200px">](https://github.com/Chae-EunJeong)|[<img src="https://avatars.githubusercontent.com/u/51963264?v=4" width="230px" >](https://github.com/DECOY-DUCK)|[<img src="https://avatars.githubusercontent.com/u/53832553?v=4" width="230" >](https://github.com/Haeun-Jung)|[<img src="https://avatars.githubusercontent.com/u/60870438?v=4" width="230" >](https://github.com/minjuPark23)|
-|:---:|:---:|:---:|:---:|:---:|
-|[박창현](https://github.com/BusChanny) |[✨정채은✨](https://github.com/Chae-EunJeong) |[오재문](https://github.com/DECOY-DUCK)|[정하은](https://github.com/Haeun-Jung)| [박민주](https://github.com/minjuPark23)|)|
-|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pch1656">](https://solved.ac/profile/pch1656)|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=procdso">](https://solved.ac/profile/procdso)|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tph01198">](https://solved.ac/profile/tph01198)|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gkdms325">](https://solved.ac/profile/gkdms325)| [<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=minj5541">](https://solved.ac/profile/minj5541)|  
+|[<img src="https://avatars.githubusercontent.com/u/79829085?v=4" width="230px;" alt=""/>](https://github.com/Si-Hyeak-KANG) |[<img src="https://avatars.githubusercontent.com/u/95335294?v=4" width="230px">](https://github.com/hongmj37)|[<img src="https://avatars.githubusercontent.com/u/98211110?v=4" width="230px" >](https://github.com/HYUNSUK331)|
+|:---:|:---:|:---:|
+|[✨강시혁](https://github.com/Si-Hyeak-KANG) |[✨홍민정](https://github.com/hongmj37) |[✨이현석](https://github.com/HYUNSUK331)|
+|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zlcls456">](https://solved.ac/profile/zlcls456)|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=procdso">](https://solved.ac/profile/procdso)|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tph01198">](https://solved.ac/profile/tph01198)|
 
-<br>  
+<br>
+
+## 📝 규칙
+- 목요일 스터디 시간까지 주어진 과제 2개 풀이
+- 한 문제당 최소 1시간 이상 고민할 것
+
+<br>
 
 ## 🌷 스터디 진행 (20시 00분 ~ 22시 00분)
-- **수요일**
+- **금요일**
     - 문제 선정 + 공통 문제 풀이 공유 및 피드백
     - 개별적으로 할당된 문제 풀이 공유 및 피드백
     - 과제 및 실습 공유
-      <br>
+- 백준 한문제, 프로그래머스 한 문제 총 두문제 풀이
+
+
+<br>
 
 ## 📙 알고리즘 문제 사이트
 - [백준](https://www.acmicpc.net/)
-- [SWEA](https://swexpertacademy.com/main/main.do)
 - [프로그래머스](https://programmers.co.kr/learn/challenges)
-  <br>
+
+<br>
 
 ## 🌱 디렉토리 및 파일 구조
-`플랫폼/카테고리(생략가능)/문제번호.문제명/자기이름_문제번호.java` 형식
-- 예시 1 : /programmers/2019KAKAO블라인드/오픈채팅방/chan.java
-- 예시 2 : /BOJ/22858.원상복구/chan.java
-  <br>
+
+### 백준(BOJ)
+
+`플랫폼/카테고리/문제명_문제번호/자기이름_문제번호.java` 형식
+- 예시 : /BOJ/완전탐색/주사위세개_0418/James_0418.java
+
+### 프로그래머스(programmers)
+`플랫폼/레벨/문제명/자기이름.java` 형식
+
+- 예시 : /programmers/level1/신고결과받기/James.java
+
+<br>
 
 ## 🥕 코드 리뷰
 - [fork해서 Pull Request 보내는 법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
