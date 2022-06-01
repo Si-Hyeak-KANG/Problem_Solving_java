@@ -47,12 +47,12 @@
 ### 백준(BOJ)
 
 `플랫폼/카테고리/문제명_문제번호/자기이름_문제번호.java` 형식
-- 예시 : /BOJ/완전탐색/주사위세개_0418/James_0418.java
+- 예시 : /BOJ/src/완전탐색/주사위세개_0418/James_0418.java
 
 ### 프로그래머스(programmers)
 `플랫폼/레벨/문제명/자기이름.java` 형식
 
-- 예시 : /programmers/level1/신고결과받기/James.java
+- 예시 : /programmers/src/level1/신고결과받기/James.java
 
 <br>
 
