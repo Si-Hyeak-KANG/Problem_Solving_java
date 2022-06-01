@@ -1,0 +1,46 @@
+> 2022.06.01 ~
+>
+> **사용 언어 : JAVA**
+
+<br>
+
+## 📝 규칙
+- 목요일 스터디 시간에 문제 2개씩(제한시간 90분) 풀고 풀이 공유
+- 다음 스터디 날까지 배포된 문제 풀어오기
+  <br>
+
+## 🙋‍♂️ 팀원
+|[<img src="https://avatars.githubusercontent.com/u/80505099?v=4" width="230px;" alt=""/>](https://github.com/BusChanny) | 👑 [<img src="https://avatars.githubusercontent.com/u/68576770?v=4" width="200px">](https://github.com/Chae-EunJeong)|[<img src="https://avatars.githubusercontent.com/u/51963264?v=4" width="230px" >](https://github.com/DECOY-DUCK)|[<img src="https://avatars.githubusercontent.com/u/53832553?v=4" width="230" >](https://github.com/Haeun-Jung)|[<img src="https://avatars.githubusercontent.com/u/60870438?v=4" width="230" >](https://github.com/minjuPark23)|
+|:---:|:---:|:---:|:---:|:---:|
+|[박창현](https://github.com/BusChanny) |[✨정채은✨](https://github.com/Chae-EunJeong) |[오재문](https://github.com/DECOY-DUCK)|[정하은](https://github.com/Haeun-Jung)| [박민주](https://github.com/minjuPark23)|)|
+|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pch1656">](https://solved.ac/profile/pch1656)|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=procdso">](https://solved.ac/profile/procdso)|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tph01198">](https://solved.ac/profile/tph01198)|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gkdms325">](https://solved.ac/profile/gkdms325)| [<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=minj5541">](https://solved.ac/profile/minj5541)|  
+
+<br>  
+
+## 🌷 스터디 진행 (20시 00분 ~ 22시 00분)
+- **수요일**
+    - 문제 선정 + 공통 문제 풀이 공유 및 피드백
+    - 개별적으로 할당된 문제 풀이 공유 및 피드백
+    - 과제 및 실습 공유
+      <br>
+
+## 📙 알고리즘 문제 사이트
+- [백준](https://www.acmicpc.net/)
+- [SWEA](https://swexpertacademy.com/main/main.do)
+- [프로그래머스](https://programmers.co.kr/learn/challenges)
+  <br>
+
+## 🌱 디렉토리 및 파일 구조
+`플랫폼/카테고리(생략가능)/문제번호.문제명/자기이름_문제번호.java` 형식
+- 예시 1 : /programmers/2019KAKAO블라인드/오픈채팅방/chan.java
+- 예시 2 : /BOJ/22858.원상복구/chan.java
+  <br>
+
+## 🥕 코드 리뷰
+- [fork해서 Pull Request 보내는 법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
+- [fork된 레포지토리 최신상태 유지하는 법](https://jybaek.tistory.com/775)
+
+1) 새로운 branch 생성
+2) 새로 만든 branch에 코드 push
+3) push 완료 후 GitHub branch 페이지에서 Pull Request(PR) 버튼 클릭
+4) 코드 리뷰 받고 <b>스터디 시간 전에 merge</b> (merge 후 branch 삭제)
