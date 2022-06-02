@@ -16,7 +16,7 @@
 |[<img src="https://avatars.githubusercontent.com/u/79829085?v=4" width="230px;" alt=""/>](https://github.com/Si-Hyeak-KANG) |[<img src="https://avatars.githubusercontent.com/u/95335294?v=4" width="230px">](https://github.com/hongmj37)|[<img src="https://avatars.githubusercontent.com/u/98211110?v=4" width="230px" >](https://github.com/HYUNSUK331)|
 |:---:|:---:|:---:|
 |[✨강시혁](https://github.com/Si-Hyeak-KANG) |[✨홍민정](https://github.com/hongmj37) |[✨이현석](https://github.com/HYUNSUK331)|
-|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zlcls456">](https://solved.ac/profile/zlcls456)|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=procdso">](https://solved.ac/profile/procdso)|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tph01198">](https://solved.ac/profile/tph01198)|
+|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=zlcls456">](https://solved.ac/profile/zlcls456)|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hongmj37">](https://solved.ac/profile/hongmj37)|[<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rjqnrdl331">](https://solved.ac/profile/rjqnrdl331)|
 
 <br>
 
@@ -26,12 +26,12 @@
 
 <br>
 
-## 🌷 스터디 진행 (20시 00분 ~ 22시 00분)
-- **금요일**
+## 🌷 스터디 진행 (08시 00분 ~ 08시 45분)
+- **화요일**
     - 문제 선정 + 공통 문제 풀이 공유 및 피드백
     - 개별적으로 할당된 문제 풀이 공유 및 피드백
     - 과제 및 실습 공유
-- 백준 한문제, 프로그래머스 한 문제 총 두문제 풀이
+- 백준 한 단계 -> 두 문제
 
 
 <br>
