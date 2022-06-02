@@ -1,4 +1,4 @@
-package ex;
+package 조건문.주사위세개_2480;
 
 
 import java.util.Scanner;
