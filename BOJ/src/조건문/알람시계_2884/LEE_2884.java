@@ -1,4 +1,4 @@
-package Bj;
+package 조건문.알람시계_2884;
 
 import java.util.Scanner;
 /*
@@ -12,7 +12,7 @@ import java.util.Scanner;
         System.out.println("시간이 아닙니다. 다시 입력하세요!!")
 
  */
-public class Bj_2884 {
+public class LEE_2884 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

@@ -3,7 +3,7 @@ package 조건문.주사위세개_2480;
 
 import java.util.Scanner;
 
-public class LEE_0418 {
+public class LEE_2480 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
