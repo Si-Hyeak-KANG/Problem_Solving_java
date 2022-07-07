@@ -8,7 +8,7 @@
 
 # Problem_name
 
-* Check group word(그룹단어체크)
+* Check Group Word(그룹단어체크)
 
 # Problem_num
 
