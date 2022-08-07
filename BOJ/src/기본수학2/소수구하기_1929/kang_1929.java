@@ -9,6 +9,7 @@ import static java.lang.Math.sqrt;
 
 // 496ms
 // 1부터 1000001 까지 소수인지 아닌지 판별하는 배열을 미리 만듦
+// main 메서드에서 M과 N을 입력하면 해당 범위 내에서 true인 인덱스만 출력
 public class kang_1929 {
 
     static boolean[] primeNum = new boolean[1000001];
