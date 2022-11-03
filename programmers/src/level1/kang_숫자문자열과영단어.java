@@ -59,6 +59,4 @@ public class kang_숫자문자열과영단어 {
 
         return answer;
     }
-
-
 }
