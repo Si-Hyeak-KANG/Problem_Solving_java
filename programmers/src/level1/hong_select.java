@@ -5,4 +5,5 @@ package level1;
  */
 public class hong_select {
     String sql = "SELECT ANIMAL_ID, NAME FROM ANIMAL_INS ORDER BY ANIMAL_ID ASC;";
-}
+    String test = "test";
+};
