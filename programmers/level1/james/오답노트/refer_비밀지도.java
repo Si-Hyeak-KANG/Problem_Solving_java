@@ -1,5 +1,9 @@
-package level1.james;
+package level1.james.오답노트;
 
+/**
+ * 비트연산자 OR 활용
+ * toBinaryString(arr1[i] | arr2[i]) : arr1과 arr2의 이진법 중 하나이상이 1일시 1
+ */
 public class refer_비밀지도 {
 
     public String[] solution (int n, int[] arr1, int[] arr2) {
