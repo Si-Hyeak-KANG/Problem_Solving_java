@@ -1,5 +1,8 @@
-package level1.james;
+package level1.james.오답노트;
 
+/**
+ * String 클래스의 replaceAll 메서드 활용
+ */
 public class refer_숫자문자열과영단어 {
 
     public int solution(String s) {
