@@ -17,7 +17,7 @@ public class 다리를_지나는_트럭 {
         int result3 = test.solution(100, 100, new int[]{10, 10, 10, 10, 10, 10, 10, 10, 10, 10});
         System.out.println(result3);
 
-        int result4 = test.solution(5, 5, new int[]{2,2,2,2,1,1,1,1,1});
+        int result4 = test.solution(5, 5, new int[]{2, 2, 2, 2, 1, 1, 1, 1, 1});
         System.out.println(result4);
     }
 
@@ -26,16 +26,16 @@ public class 다리를_지나는_트럭 {
         Queue<Integer> bridge = new LinkedList<>();
         int index = 0;
 
-        while(index < truck_weights.length) {
+        while (index < truck_weights.length) {
             int currTruck = truck_weights[index];
 
-            if(bridge.isEmpty()) {
+            if (bridge.isEmpty()) {
                 bridge.add(currTruck);
                 index++;
                 time++;
-            } else if(bridge.size() < bridge_length) {
+            } else if (bridge.size() < bridge_length) {
 
-                if(isPermitWeight(getCurrWeightInBridge(bridge), currTruck, weight)) {
+                if (isPermitWeight(getCurrWeightInBridge(bridge), currTruck, weight)) {
                     bridge.add(currTruck);
                     index++;
                     time++;
@@ -51,7 +51,7 @@ public class 다리를_지나는_트럭 {
     }
 
     public int getCurrWeightInBridge(Queue<Integer> bridge) {
-        return bridge.stream().mapToInt(a->a).sum();
+        return bridge.stream().mapToInt(a -> a).sum();
     }
 
     public boolean isPermitWeight(int currWeightInBridge, int currTruckWeight, int limit) {
