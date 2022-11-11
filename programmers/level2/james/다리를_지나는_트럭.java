@@ -29,22 +29,23 @@ public class 다리를_지나는_트럭 {
         while (index < truck_weights.length) {
             int currTruck = truck_weights[index];
 
-            if (bridge.isEmpty()) {
+            if (bridge.isEmpty()) { // 1. 다리에 어떤 트럭도 없을 경우
                 bridge.add(currTruck);
                 index++;
                 time++;
-            } else if (bridge.size() < bridge_length) {
+            } else if (bridge.size() < bridge_length) { // 다리에 자리가 있을 경우
 
+                // 2. 제한무게를 초과하지 않을 경우
                 if (isPermitWeight(getCurrWeightInBridge(bridge), currTruck, weight)) {
                     bridge.add(currTruck);
                     index++;
-                    time++;
-                } else {
+                } else { // 3. 제한무게를 초과할 경우
                     bridge.add(0);
-                    time++;
                 }
-            } else {
-                bridge.poll();
+                time++;
+
+            } else { // 4. 다리에 자리가 없을 경우
+               bridge.poll();
             }
         }
         return time + bridge_length;
